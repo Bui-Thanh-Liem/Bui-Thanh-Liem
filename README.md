@@ -34,13 +34,6 @@ I am a dedicated **Junior Backend Developer** based in Ho Chi Minh City with ove
 
 ---
 
-### 📊 GitHub Stats
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=Bui-Thanh-Liem&show_icons=true&theme=radical" alt="Liem's GitHub Stats" />
-</p>
-
----
-
 ### 🌟 Featured Projects
 
 #### 🏢 Centralized CRM & Sales Ecosystem
