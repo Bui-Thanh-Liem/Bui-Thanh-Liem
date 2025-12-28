@@ -11,7 +11,6 @@ I am a dedicated **Junior Backend Developer** based in Ho Chi Minh City with ove
 ![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![Microservices](https://img.shields.io/badge/Microservices-blueviolet?style=for-the-badge&logo=architecture)
 ![MVC](https://img.shields.io/badge/MVC-Architecture-orange?style=for-the-badge)
 ![Design Patterns](https://img.shields.io/badge/Design%20Patterns-Pattern-green?style=for-the-badge)
 
