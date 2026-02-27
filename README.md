@@ -15,7 +15,6 @@ I am a dedicated **Junior Backend Developer** based in Ho Chi Minh City with nea
 ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&logoColor=white)
 ![BullMQ](https://img.shields.io/badge/BullMQ-red?style=for-the-badge&logo=redis&logoColor=white)
 ![MVC](https://img.shields.io/badge/MVC-Architecture-orange?style=for-the-badge)
-![Design Patterns](https://img.shields.io/badge/Design%20Patterns-Pattern-green?style=for-the-badge)
 
 > **Core Expertise:** Scalable System Design, Performance Optimization, and High Concurrency Handling.
 
