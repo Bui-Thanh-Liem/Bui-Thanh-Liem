@@ -16,8 +16,6 @@ I am a dedicated Backend Developer based in Ho Chi Minh City with over 2 years o
 ![BullMQ](https://img.shields.io/badge/BullMQ-red?style=for-the-badge&logo=redis&logoColor=white)
 ![MVC](https://img.shields.io/badge/MVC-Architecture-orange?style=for-the-badge)
 
-> **Core Expertise:** Scalable System Design, Performance Optimization, and High Concurrency Handling.
-
 #### 🗄️ Database & Caching
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
