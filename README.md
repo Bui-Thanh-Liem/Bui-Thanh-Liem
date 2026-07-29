@@ -37,6 +37,11 @@ I am a dedicated Backend Developer based in Ho Chi Minh City with over 2 years o
 ![Swagger](https://img.shields.io/badge/-Swagger-%23C1E1C1?style=for-the-badge&logo=swagger&logoColor=black)
 ![PM2](https://img.shields.io/badge/PM2-2B037A?style=for-the-badge&logo=pm2&logoColor=white)
 
+#### 🤖 AI, LLM & RAG Ecosystem
+![RAG](https://img.shields.io/badge/RAG-Architecture-blueviolet?style=for-the-badge)
+![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-FFD21E?style=for-the-badge&logoColor=black)
+![Ollama](https://img.shields.io/badge/Ollama-black?style=for-the-badge)
+
 #### 🎨 Frontend & Mobile Development
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white)
