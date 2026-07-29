@@ -54,7 +54,7 @@ I am a dedicated Backend/Fullstack Developer based in Ho Chi Minh City with over
 
 ### 🌟 Featured Projects
 
-#### 🏢 Centralized CRM & Sales Ecosystem
+#### 🏢 Centralized CRM & Sales Ecosystem (COMPANY)
 - **Role:** Backend Developer
 - **Key Achievements:** Optimized complex SQL queries (latency < 200ms) and implemented BullMQ with Redis for background jobs.
 - **Tech:** NestJS, MySQL, Redis, BullMQ, Docker.
