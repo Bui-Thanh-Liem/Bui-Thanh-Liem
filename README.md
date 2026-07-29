@@ -1,7 +1,7 @@
 # Hi there, I'm Liêm (Bùi Thanh Liêm) 👋
 ### 🚀 Fullstack Developer | ReactJS, NextJS, ExpressJS, NestJS Specialist
 
-I am a dedicated Backend Developer based in Ho Chi Minh City with over 2 years of hands-on experience in designing and maintaining scalable, high-performance enterprise applications.
+I am a dedicated Backend/Fullstack Developer based in Ho Chi Minh City with over 2 years of hands-on experience in designing scalable microservices, high-performance systems, and integrating AI/LLM solutions (RAG, Local Models via Ollama & Hugging Face) into production-ready web applications.
 
 ---
 
