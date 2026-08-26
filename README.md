@@ -58,8 +58,8 @@ I am a dedicated Backend/Fullstack Developer based in Ho Chi Minh City with over
 - **Role:** Backend Developer
 - **Key Achievements:** Optimized complex SQL queries (latency < 200ms) and implemented BullMQ with Redis for background jobs.
 - **Tech:** NestJS, MySQL, Redis, BullMQ, Docker.
-
-#### 📱 Social Media Web Application
+ 
+#### 📱 Social Media Web Application (COMPANY)
 - **Highlights:** Handled high concurrency (>10,000 req/s) for the "like" feature using locking strategies and write-behind cache.
 - **Tech:** Express.js, MongoDB, Redis, Socket.io, AWS.
 
